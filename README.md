@@ -27,10 +27,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-<img src="images/screenshot-desktop-version.JPG" alt="Desktop Version" width="1024"/>
+<img src="images\screenshot-desktop-version.JPG" alt="Desktop Version" width="1024"/>
 
 Mobile
-<img src="images/screenshot-mobile-version.JPG" alt="Mobile Version" width="1024"/>
+<img src="images\screenshot-mobile-version.JPG" alt="Mobile Version" width="1024"/>
 
 ### Links
 
